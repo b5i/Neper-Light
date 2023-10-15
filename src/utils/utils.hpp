@@ -1,8 +1,8 @@
 #ifndef __UTILS__
 #define __UTILS__
 
-#include "include/string.hpp"
-#include "include/math.hpp"
-#include "include/unordered_map.hpp"
+#include "src/string.cpp"
+#include "src/math.cpp"
+#include "src/unordered_map.cpp"
 
 #endif /* __UTILS__ */
